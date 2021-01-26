@@ -1,5 +1,6 @@
 import 'package:geolocator/geolocator.dart';
 
+///location objects hold a latitude and a longitude to get the weather of current area.
 class Location {
   double latitude;
   double longitude;
